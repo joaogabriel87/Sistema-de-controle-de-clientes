@@ -1,0 +1,15 @@
+C:\Users\joaga\OneDrive\Documents\Projetos c#\Desenvolvimento de sistema de controle de clientes\bin\Debug\net7.0\Desenvolvimento de sistema de controle de clientes.exe
+C:\Users\joaga\OneDrive\Documents\Projetos c#\Desenvolvimento de sistema de controle de clientes\bin\Debug\net7.0\Desenvolvimento de sistema de controle de clientes.deps.json
+C:\Users\joaga\OneDrive\Documents\Projetos c#\Desenvolvimento de sistema de controle de clientes\bin\Debug\net7.0\Desenvolvimento de sistema de controle de clientes.runtimeconfig.json
+C:\Users\joaga\OneDrive\Documents\Projetos c#\Desenvolvimento de sistema de controle de clientes\bin\Debug\net7.0\Desenvolvimento de sistema de controle de clientes.dll
+C:\Users\joaga\OneDrive\Documents\Projetos c#\Desenvolvimento de sistema de controle de clientes\bin\Debug\net7.0\Desenvolvimento de sistema de controle de clientes.pdb
+C:\Users\joaga\OneDrive\Documents\Projetos c#\Desenvolvimento de sistema de controle de clientes\obj\Debug\net7.0\Desenvolvimento de sistema de controle de clientes.csproj.AssemblyReference.cache
+C:\Users\joaga\OneDrive\Documents\Projetos c#\Desenvolvimento de sistema de controle de clientes\obj\Debug\net7.0\Desenvolvimento de sistema de controle de clientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joaga\OneDrive\Documents\Projetos c#\Desenvolvimento de sistema de controle de clientes\obj\Debug\net7.0\Desenvolvimento de sistema de controle de clientes.AssemblyInfoInputs.cache
+C:\Users\joaga\OneDrive\Documents\Projetos c#\Desenvolvimento de sistema de controle de clientes\obj\Debug\net7.0\Desenvolvimento de sistema de controle de clientes.AssemblyInfo.cs
+C:\Users\joaga\OneDrive\Documents\Projetos c#\Desenvolvimento de sistema de controle de clientes\obj\Debug\net7.0\Desenvolvimento de sistema de controle de clientes.csproj.CoreCompileInputs.cache
+C:\Users\joaga\OneDrive\Documents\Projetos c#\Desenvolvimento de sistema de controle de clientes\obj\Debug\net7.0\Desenvolvimento de sistema de controle de clientes.dll
+C:\Users\joaga\OneDrive\Documents\Projetos c#\Desenvolvimento de sistema de controle de clientes\obj\Debug\net7.0\refint\Desenvolvimento de sistema de controle de clientes.dll
+C:\Users\joaga\OneDrive\Documents\Projetos c#\Desenvolvimento de sistema de controle de clientes\obj\Debug\net7.0\Desenvolvimento de sistema de controle de clientes.pdb
+C:\Users\joaga\OneDrive\Documents\Projetos c#\Desenvolvimento de sistema de controle de clientes\obj\Debug\net7.0\Desenvolvimento de sistema de controle de clientes.genruntimeconfig.cache
+C:\Users\joaga\OneDrive\Documents\Projetos c#\Desenvolvimento de sistema de controle de clientes\obj\Debug\net7.0\ref\Desenvolvimento de sistema de controle de clientes.dll
